@@ -3,10 +3,10 @@
 Programa:		fdsdo.ado
 Autor:			Alvaro Lopez-Espinoza
 Resultado:		Crea plantillas para do-files de FUNIDES
-Institucion: 	FUNIDES
+Institucion: 		FUNIDES
 ---------------------------------------------------------------------------
 Fecha de creacion: 	Marzo 2019
-Producto:			fdstemplate.ado
+Producto:		fdsdo.ado
 ===========================================================================*/
 
 cap program drop fdsdo
