@@ -1,2 +1,2 @@
-# stata
-Stata codes
+# Repositorio de códigos de Stata
+
