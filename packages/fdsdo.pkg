@@ -1,0 +1,9 @@
+v 1.0
+d 'fdsdo': Do-file template for FUNIDES (www.funides.com)
+d 
+d Configure do-file structure according guidelines of FUNDIES
+d 
+d Distribution-Date: 2020-05-28
+d License: MIT
+d 
+F fdsdo.ado
