@@ -9,8 +9,8 @@ Fecha de creacion: 	Marzo 2019
 Producto:		doecon2.ado
 ===========================================================================*/
 
-cap program drop fdsdo
-program define fdsdo
+cap program drop doecon2
+program define doecon2
 
 syntax , [ File(string) 						/// Nombre del do-file
            Path(string) 						/// directory path where do-file will be placed
