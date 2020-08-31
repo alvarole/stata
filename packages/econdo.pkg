@@ -1,0 +1,9 @@
+v 1.0
+d 'econdo': Do-file template by Alvaro López-Espinoza (@alvarole_)
+d 
+d Configure do-file structure according guidelines of Econometrics II course of Universidad Centroamericana (UCA)
+d 
+d Distribution-Date: 2020-08-24
+d License: MIT
+d 
+F econdo.ado
